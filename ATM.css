@@ -1,0 +1,62 @@
+body{
+    background-color: aquamarine;
+}
+
+#elegido{
+    font-size: 30px;
+}
+
+#principio{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    border: 10px;
+    margin: 10px;
+}
+
+nav{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#btn{
+    width: 100%;
+    background-color: black;
+    color: beige;
+}
+
+#vertical{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 10px;
+    padding: 10px;
+    border: 10px;
+}
+
+#display{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    border: 10px;
+}
+
+#opciones{
+    display: flex;
+
+}
+
+#btn2{
+    height: 50px;
+}
+
+#mostrar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
